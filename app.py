@@ -179,7 +179,7 @@ st.markdown('''
 - Syed Khalidul Arifeen, Cakeology BD Owner. (Phone: +8801963636364, Email: cakeologybd@gmail.com / sk_arifeen@yahoo.com)
 - Nousin Tasnia, Machine Learning with Python Course Instructor. (Email: nousin.tasnia@gmail.com)
 - Engineer Mohamad Farhan Ferdous, Founder and Internship Supervisor, JBRATRC. (Email: jbratrc2018@gmail.com)
-- Engineer Lee Chen Yuek, Technical Support Engineer and Internship Supervisor, IDEA PLT. (Email: walter.lee@idea-plt.com)
+- Lee Chen Yuek, Technical Support Engineer and Internship Supervisor, IDEA PLT. (Email: walter.lee@idea-plt.com)
 
 ''')
 

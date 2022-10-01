@@ -11,7 +11,7 @@ st.write('''
 ##### *Resume* 
 ''')
 
-image = Image.open('Resources/circle_profile_new_image.png')
+image = Image.open('Resources/circle_profile_new_image_background_removed.png')
 st.image(image, width=150)
 
 

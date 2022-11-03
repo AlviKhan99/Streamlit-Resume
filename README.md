@@ -20,3 +20,9 @@ Important Note: Install all the packages together
 ```bash
 pip install -r requirements.txt
 ```
+
+# Author
+
+## Alvi Khan Chowdhury
+
+## Email: alviavailable@gmail.com

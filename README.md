@@ -17,13 +17,12 @@ conda activate streamlit
 
 Step 03:
 ```bash
-pip install streamlit
+pip install -r requirements.txt
 ```
 
-Important Note: Install all the packages together
-
+To run the app:
 ```bash
-pip install -r requirements.txt
+streamlit run app.py
 ```
 
 # Author

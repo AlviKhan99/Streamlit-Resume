@@ -73,7 +73,7 @@ st.markdown('''
 txt3('**Bachelor of Science with Honors** (Mechatronic Engineering), *UCSI University*, Kuala Lumpur, Malaysia',
 'September 2019 - August 2023')
 st.markdown('''
-- Current CGPA: `3.63`
+- Current CGPA: `3.64`
 ''')
 
 txt3('**Cambridge International Examination** (Cambridge International Advanced Level), *Cardiff International School Dhaka*, Dhaka, Bangladesh',
